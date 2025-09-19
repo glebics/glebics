@@ -1,6 +1,6 @@
 # 💫 About Me:
-python backend developer<br>
-Learning about websockets for continuous client-server interaction<br> 💬 
+Python backend developer<br>
+Learning about websockets for continuous client-server interaction<br> 
 Ask me anything you want – I'm on some social networks<br>  
 Random fact – I only take cold showers
 
